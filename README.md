@@ -6,7 +6,7 @@ This program itself was mostly written with the help of GPT-3, through GitHub Co
 
 # Getting started
 
-To host your own instalnce of Chat-W-Tony, follow thses steps
+To host your own instalnce of Chat-W-Tony, follow these steps
 
 1. Create a Discord Bot Application from the [portal](https://discord.com/developers/applications), convert it to a Bot and add it to a server, with the `Send message` permission.
 1. Copy the Bot's `Client Secret`
